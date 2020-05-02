@@ -1,0 +1,11 @@
+yolo.h5
+detect.mp4
+detected_video.avi
+.avi
+resnet_coco_best_v2.0.1.h5
+video.avi
+/.idea/
+/__pycache__/
+*.h5
+*.avi
+*.mp4

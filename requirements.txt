@@ -1,0 +1,27 @@
+Things to install to run the project:
+
+**** Detection:
+******** Python 3.5+
+******** TensorFlow 1.4.0+
+******** OpenCV(cv2)
+******** Keras 2.x
+******** ImageAI (see: https://imageai.readthedocs.io/en/latest/)
+******** ImageAI github: https://github.com/OlafenwaMoses/ImageAI
+******** matplotlib
+******** numpy
+******** scipy
+******** bibtex Citation:
+******** @misc {ImageAI,
+********            author = "Moses and John Olafenwa",
+********            title  = "ImageAI, an open source python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities",
+********            url    = "https://github.com/OlafenwaMoses/ImageAI",
+********            month  = "mar",
+********            year   = "2018--"
+********        }
+
+**** Vibration:
+******** pyserial
+******** Bluetooth enabled development/testing machine
+
+
+****Whole lot of patience****
